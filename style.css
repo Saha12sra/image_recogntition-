@@ -9,7 +9,7 @@ body{
     font-size: 22px;
 }
 
-#camera{
+#camera, #result{
 
     border: 2px dashed white;
     width: 350px;
